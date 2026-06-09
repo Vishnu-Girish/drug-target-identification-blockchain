@@ -12,3 +12,5 @@ ml-team/datasets/*
 blockchain-team/fabric/test-network/organizations/peerOrganizations/
 blockchain-team/fabric/test-network/organizations/ordererOrganizations/
 blockchain-team/fabric/test-network/channel-artifacts/
+# Node.js
+node_modules/
